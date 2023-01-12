@@ -8,3 +8,5 @@
 # ETC
 * 로그 색상 표시 spring.output.ansi.enabled=always
 * 어노테이션 옵션 단축키 ctrl+p
+* import 옵션 단축키 alt+enter
+* shift+F6 rename
