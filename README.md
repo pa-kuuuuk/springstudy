@@ -7,6 +7,10 @@
 ***
 # ETC
 * 로그 색상 표시 spring.output.ansi.enabled=always
-* 어노테이션 옵션 단축키 ctrl+p
-* import 옵션 단축키 alt+enter
-* shift+F6 rename
+* 어노테이션 옵션 단축키 C+p
+* static import 옵션 단축키 A+enter
+* S+F6 rename
+* 함수 리팩토링 단축키 C+A+m
+* return 자동완성 C+A+v
+* 테스트케이스 자동생성 C+S+t
+* Generate 단축키 A+ins
